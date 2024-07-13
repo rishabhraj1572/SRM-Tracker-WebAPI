@@ -9,4 +9,4 @@ SRM-Tracker-WebAPI is the server-side component for the SRM Tracker app.
 
 ## License
 
-This project is licensed under the terms of the [SRM Tracker License](https://github.com/rishabhraj1572/SRM-Tracker-Android/edit/master/License.md).
+This project is licensed under the terms of the [SRM Tracker License](https://github.com/rishabhraj1572/SRM-Tracker-Android/edit/master/license.md).
